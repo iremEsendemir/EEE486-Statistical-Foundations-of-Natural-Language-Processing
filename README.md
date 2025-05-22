@@ -1,5 +1,3 @@
-# EEE486---Statistical-Foundations-of-Natural-Language-Processing
-Bilkent EEE486 Spring 2025
 # EEE486/586 - Statistical Foundations of Natural Language Processing
 
 This repository contains the implementations, reports, and related files for the homework assignments in the course **EEE486- Statistical Foundations of Natural Language Processing** at Bilkent University.
